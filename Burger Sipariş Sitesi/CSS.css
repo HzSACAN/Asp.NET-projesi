@@ -1,0 +1,30 @@
+﻿.navbar.navbar-inverse {
+    background-color: orangered;
+}
+#bolum-1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(https://cdn-img.georgeforemangrills.com/manager/georgeforemangrills_com/updated-recipe-headers/large_Chilli%20Burger.jpg);
+    background-position: top;
+    padding: 1px;
+    height: 790px;
+    width: 100%;
+    background-size: cover;
+}
+.container {
+    margin: 0;
+    padding: 0;
+}
+.container {
+    margin: 0;
+    padding: 0;
+}
+#bolum-2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.5)), url(https://img.freepik.com/premium-photo/product-photo-delicious-huge-burger-dark-background-restaurant-background_692702-19369.jpg?w=2000);
+    background-position: top;
+    padding: 1px;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+.transparent-textbox {
+    background-color: transparent;
+}
